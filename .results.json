@@ -5,15 +5,15 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2025-12-22T18:20:37.107Z",
-    "end": "2025-12-22T18:20:37.738Z",
-    "duration": 631
+    "start": "2026-09-08T17:03:55.567Z",
+    "end": "2026-09-08T17:03:56.142Z",
+    "duration": 575
   },
   "tests": [
     {
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
-      "duration": 3,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -59,7 +59,7 @@
     {
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
-      "duration": 3,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
